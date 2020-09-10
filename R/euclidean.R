@@ -12,6 +12,11 @@
 #' @export
 
 euclidean <- function(x, y) {
+  
+  if (length(x) != 1 || length(y) != 1 || !is.numeric(x) || !is.numeric(y)) {
+    stop("The function must only get two numeric scalar inputs")
+  }
+  
   while (y!= 0) {
     t <- y
     y <- x %% y
