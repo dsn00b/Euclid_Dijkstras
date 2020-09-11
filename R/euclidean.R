@@ -5,11 +5,12 @@
 #' @param x A number
 #' @param y A number
 #' @return Greatest common divisor of \strong{\code{x}} and \strong{\code{y}}.
+#' @export
 #' @examples
 #' euclidean(123612, 13892347912)
 #' euclidean(100, 1000)
 #' @references \href{https://en.wikipedia.org/wiki/Euclidean_algorithm}{Euclidean Algorithm}
-#' @export
+
 
 euclidean <- function(x, y) {
   
