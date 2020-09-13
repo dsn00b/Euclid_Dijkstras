@@ -1,0 +1,18 @@
+Package: euclid.dijkstras
+Type: Package
+Title: Implements Euclid's and Djikstra's Algorithms
+Version: 1.0
+Date: 2020-09-04
+Author: Rojan and Shashi
+Maintainer: <shashiniyer@gmail.com>, <rojankarakaya@gmail.com>
+Description: There are two functions in the package: 
+  one implements Euclid's algorithm to find the greatest common divisor
+  of two numbers, and the other implements Dijkstra's algorithm to compute
+  the shortest distance/path from one node to another in a connected graph
+License: GNU
+RoxygenNote: 7.1.1
+LazyData: true
+Encoding: UTF-8
+Depends: R (>= 2.10)
+Suggests: testthat
+Built: R 4.0.2; ; 2020-09-11 22:19:51 UTC; unix

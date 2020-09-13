@@ -1,0 +1,107 @@
+* using log directory ‘/Users/stray/Documents/GitHub/Euclid_Dijkstras/..Rcheck’
+* using R version 4.0.2 (2020-06-22)
+* using platform: x86_64-apple-darwin17.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘./DESCRIPTION’ ... OK
+* checking extension type ... Package
+* this is package ‘euclid.dijkstras’ version ‘1.0’
+* package encoding: UTF-8
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... WARNING
+Found the following executable files:
+  .git/objects/01/67f6aa0f948318a1ccc8f6fa6bf879d786158f
+  .git/objects/02/e05386c3a9c177c279790646200020a3c9b6cc
+  .git/objects/05/1b30b21436ac17dd077e02e2c934f8f3718059
+  .git/objects/16/f1c978e2fe7980d6590d3722bfd558c8cc0cd0
+  .git/objects/21/a4da087e1c026c953a49de88caea1247cd1f1b
+  .git/objects/28/a101f8982f2beb6b3668b0666fcd41a3fe31ee
+  .git/objects/2d/b872934840ccf3f9220770abef8b475ebb64dc
+  .git/objects/31/1ad5ed62f3f0899a314006d62113c77b56d25d
+  .git/objects/45/3a7d5da0dae6d82753dcf812919dcfaff1172d
+  .git/objects/4d/5ab2a73907206de17de3bb05de70c1b7854deb
+  .git/objects/50/d89bca539576f46337e8d5580011f54856a0f6
+  .git/objects/57/484f4d985ad0f4f78d9d47b8f3d6da887198a1
+  .git/objects/5b/6a0652566d10360493952aec6d4a4febc77083
+  .git/objects/5e/1761aca46447fe6e0e5219aa7498fc6d300e52
+  .git/objects/5f/883f86a040dfa437d5bb29cad6d9c5b5eb74e8
+  .git/objects/69/67a7d796d5a1900da5437fb9165c535e3fe5b2
+  .git/objects/78/cc13eed4d76b7236f21ff6502f287afe341676
+  .git/objects/7c/cab5462394877f4158fd99028d83dd3ee5c37c
+  .git/objects/81/badde7fdcb708702cf3f86ad1183c7783130b0
+  .git/objects/87/17c26580a701693dec291060bc680aa918c981
+  .git/objects/8e/20a3000b2e2af0c07a68a7a44a6c260d9b5b4a
+  .git/objects/a2/73617c7af377ebe3abecc06732ad9fa2d00126
+  .git/objects/a9/6616097f17346fc173e23367301a7a25b2b2b3
+  .git/objects/ab/3eee703ff05c71f3ebcc4fa60a1b01051499fe
+  .git/objects/be/1952ac765cfca169b3c88a69ea7bf480465c39
+  .git/objects/d6/0ee78acd1ca4beaf2639b60359c682f71ae5ad
+  .git/objects/e6/5f65c1f146effe2f463ad1802357f7d08b94c9
+  .git/objects/f2/5189240270d3c7994f948d2d5b25560556c65a
+  .git/objects/f7/81c00117653accf5477a87e5ae7cc649168977
+Source packages should not contain undeclared executable files.
+See section ‘Package structure’ in the ‘Writing R Extensions’ manual.
+* checking for hidden files and directories ... NOTE
+Found the following hidden files and directories:
+  .DS_Store
+  .Rhistory
+  .gitignore
+  .travis.yml
+  ..Rcheck
+  .Rproj.user
+  .git
+These were most likely included in error. See section ‘Package
+structure’ in the ‘Writing R Extensions’ manual.
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking whether package ‘euclid.dijkstras’ can be installed ... OK
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Malformed Description field: should contain one or more complete sentences.
+Non-standard license specification:
+  GNU
+Standardizable: FALSE
+Checking should be performed on sources prepared by ‘R CMD build’.
+* checking top-level files ... NOTE
+File
+  LICENSE
+is not mentioned in the DESCRIPTION file.
+* checking for left-over files ... OK
+* checking index information ... OK
+* checking package subdirectories ... WARNING
+Found the following directory with the name of a check directory:
+  ./..Rcheck
+Most likely, these were included erroneously.
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking whether the namespace can be loaded with stated dependencies ... OK
+* checking whether the namespace can be unloaded cleanly ... OK
+* checking dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... OK
+* checking Rd metadata ... OK
+* checking Rd cross-references ... OK
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking contents of ‘data’ directory ... OK
+* checking data for non-ASCII characters ... OK
+* checking data for ASCII and uncompressed saves ... OK
+* checking examples ... OK
+* checking for unstated dependencies in ‘tests’ ... OK
+* checking tests ... OK
+  Running ‘testthat.R’
+* checking PDF version of manual ... OK
+* DONE
+Status: 2 WARNINGs, 3 NOTEs
