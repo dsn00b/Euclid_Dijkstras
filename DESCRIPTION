@@ -9,7 +9,7 @@ Description: There are two functions in the package:
   one implements Euclid's algorithm to find the greatest common divisor
   of two numbers, and the other implements Dijkstra's algorithm to compute
   the shortest distance/path from one node to another in a connected graph
-License: GNU
+License: GPL-3
 RoxygenNote: 7.1.1
 LazyData: true
 Encoding: UTF-8
